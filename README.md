@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+309 | [A - Subsequence Permutation](https://codeforces.com/contest/1552/problem/A) | [GNU C++17 (64)](./codeforces/1552/A.cpp) | `sortings` `strings` `*800` | Jul/25/2021 20:13 | 
 308 | [A - Binary Decimal](https://codeforces.com/contest/1530/problem/A) | [GNU C++17 (64)](./codeforces/1530/A.cpp) | `math` | Jul/17/2021 20:11 | 
 307 | [D - Playoff Tournament](https://codeforces.com/contest/1535/problem/D) | [GNU C++17 (64)](./codeforces/1535/D.cpp) | `data structures` `dfs and similar` `dp` `implementation` `trees` `*1800` | Jun/11/2021 16:12 | 
 306 | [F - Interesting Function](https://codeforces.com/contest/1538/problem/F) | [GNU C++17 (64)](./codeforces/1538/F.cpp) | `binary search` `dp` `math` `number theory` | Jun/11/2021 13:47 | 
