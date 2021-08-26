@@ -5256,6 +5256,22 @@
     ],
     "timestamp": "Aug/15/2021 20:39"
   },
+  "CF127062895": {
+    "contest_id": 1562,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\1562\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "The Miracle and the Sleeper",
+    "problem_url": "https://codeforces.com/contest/1562/problem/A",
+    "submission_id": "CF127062895",
+    "submission_url": "https://codeforces.com/contest/1562/submission/127062895",
+    "tags": [
+      "greedy",
+      "math"
+    ],
+    "timestamp": "Aug/26/2021 20:14"
+  },
   "CF97547582": {
     "contest_id": 1230,
     "language": "GNU C++17",
